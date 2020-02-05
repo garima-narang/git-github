@@ -9,3 +9,12 @@ git status
 git add <filename>
 
 git add -A     /// add aall files in one go 
+
+git rm <file name>
+
+git commit -m "msg"
+
+git commit -a -m "msg"
+ git log
+
+
