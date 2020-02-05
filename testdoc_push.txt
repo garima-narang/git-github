@@ -17,4 +17,12 @@ git commit -m "msg"
 git commit -a -m "msg"
  git log
 
+creating branches
 
+git branch <newbranch name>
+
+
+git checkout <branchname> // checout from prev n checkin to new branch
+
+files made in new branch will not be reflected in master branch
+ 
