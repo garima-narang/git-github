@@ -26,3 +26,6 @@ git checkout <branchname> // checout from prev n checkin to new branch
 
 files made in new branch will not be reflected in master branch
  
+CAT <FILENAME>
+
+git merge branchname
