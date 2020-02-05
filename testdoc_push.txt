@@ -1,0 +1,11 @@
+git init
+
+git remote add origin " link from github clone url       "
+
+git pull origin master
+
+git status
+
+git add <filename>
+
+git add -A     /// add aall files in one go 
